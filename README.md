@@ -1,6 +1,7 @@
 # TinyToggles
 
-<img width="192" height="112" alt="スクリーンショット 2026-06-25 14 34 18" src="https://github.com/user-attachments/assets/4e2ee897-0f44-464d-bdf0-732e21dda47a" />
+<img width="192" height="112" alt="スクリーンショット 2026-06-25 15 34 56" src="https://github.com/user-attachments/assets/eef20fd8-a5c8-4f22-9b32-1196f4b26a13" />
+
 
 
 
